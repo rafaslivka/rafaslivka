@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rafaslivka
 - 👀 I’m interested in music, video games and series
 - 🌱 I’m currently learning how to speak german.
-- 💞️ I’m looking to collaborate on my future and create my own company of logistics
+- 💞️ I’m looking to collaborate on my future and create my own company of logistics and programming
 - 📫 How to reach me, Facebook/Rafael.slivka - Linkedin
 
 <!---
