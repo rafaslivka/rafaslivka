@@ -1,3 +1,6 @@
+[![card](https://github-readme-stats.vercel.app/api?rafaslivka=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <h1 align="left">Hi! 👋</h1>
 
 <p align="left">My name is Rafael Slivka, and I'm from São José dos Campos - SP, Brazil.</p>
