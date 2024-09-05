@@ -1,4 +1,4 @@
-[![card](https://github-readme-stats.vercel.app/api?rafaslivka=iuricode&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=rafaslivka&theme=Tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h1 align="left">Hi! 👋</h1>
