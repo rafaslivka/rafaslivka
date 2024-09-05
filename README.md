@@ -36,7 +36,7 @@
 - On weekends, I prioritize spending time with my girlfriend and family
 
 [![card](https://github-readme-stats.vercel.app/api?username=rafaslivka&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
-[![rafaslivka](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaslivka&hide=html&layout=Dark&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![rafaslivka](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaslivka&hide=html&layout=compact&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <h2 align="left">I code with</h2>
