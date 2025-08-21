@@ -9,24 +9,28 @@
 📚 **Currently:**  
 - Working in programming  
 - Pursuing a degree in Database Management at FATEC  
-- Currently interning at Sebrae, where I'm applying and desenvolving my skills in technology and business support
+
+💼 **Internship at Sebrae**  
+- Working in **back office operations**  
+- Providing **support** to the team and clients  
+- Applying and developing skills in technology and business support  
 
 🚚 **Logistics Experience**  
 - 9 years of experience in the field  
-- Semester of studies in Logistics at FATEC
+- Semester of studies in Logistics at FATEC  
 
 🧑🏻‍🎓 **Education at FATEC**  
 - Semester of studies in Logistics  
-- Currently pursuing: Database Management
+- Currently pursuing: Database Management  
 
 🎯 **Current Activities:**  
 - Programming  
-- Enhancing my knowledge and practical skills in Database Management
+- Enhancing my knowledge and practical skills in Database Management  
 
 🕹️ **Outside of Work:**  
 - Advanced in English  
 - Passionate about rock music; I enjoy playing the guitar and drums  
-- On weekends, I prioritize spending time with my girlfriend and family
+- On weekends, I prioritize spending time with my girlfriend and family  
 
 [![card](https://github-readme-stats.vercel.app/api?username=rafaslivka&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)  
 [![rafaslivka](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaslivka&hide=html&layout=compact&theme=Dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -44,5 +48,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
-
-###
