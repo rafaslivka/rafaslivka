@@ -1,138 +1,71 @@
-<div align="center">
+# Hey, I'm Rafael Slivka 👋
 
-# 👨‍💻 Rafael Slivka
+I'm from **São José dos Campos, SP – Brazil**, 25 years old, and I'm transitioning careers — coming from almost a decade in logistics and operations, now going all in on tech.
 
-### Full Stack Developer | Database Specialist | Tech Enthusiast
+I'm currently studying **Database Management at FATEC SJC** (graduating December/2026) and working as an **Administrative Intern at Sebrae**, handling Back Office operations, contract management, and client support.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=435&lines=Building+the+future+with+code;Database+Management+Student;9+Years+in+Logistics;Always+learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<img src="https://komarev.com/ghpvc/?username=rafaslivka&color=00d9ff&style=flat-square&label=Profile+Views" alt="Profile views" />
-
-</div>
+I'm not an expert yet — I'm someone who learns fast, takes things seriously, and brings a different background to tech: **9 years understanding how real-world operations work**. That changes how I think about solutions.
 
 ---
 
-## 🎯 About Me
+## 🎓 Academic Projects — Denarius Data Team
 
-🚀 **Developer** in constant evolution, passionate about technology and solving real problems with code
+These are the projects I built as part of my degree, developed in groups using Agile (Scrum) methodology.
 
-📍 Based in **São José dos Campos, SP** - Brazil
+| Semester | Project | Partner | What we built |
+|---|---|---|---|
+| 1st | [API-1SEM](https://github.com/DenariusData/API-1sem) | — | Scientific calculator with a text interface, capable of executing multiple math operations in a single run |
+| 2nd | [API-2SEM](https://github.com/DenariusData/API-2SEM) | — | PACER Evaluation System to simplify team assessments and integrate collected data |
+| 3rd | [Altime](https://github.com/DenariusData/API-3SEM) | [Altave](https://altave.com.br) | Corporate time tracking system with company and employee registration |
+| 4th | [Radarius](https://github.com/DenariusData/API-4SEM) | [Prefeitura de SJC](https://www.sjc.sp.gov.br/) | Automated WhatsApp alert system to support the city's General Audit department |
+| 5th | [Nexus](https://github.com/DenariusData/API-5SEM) | [SIATT](https://www.siatt.com.br) | Analytical platform consolidating project costs, work hours, and operational history to support decision-making |
 
-💡 Currently working as **Intern at Sebrae**, where I combine my tech skills with business operations
-
-🎓 Studying **Database Management** at FATEC, after completing one semester in Logistics
-
-🚚 Bringing **9 years of logistics experience** into the tech world - I understand operations, processes, and efficiency
-
-🌐 **Advanced English** speaker, ready for global opportunities
-
-🎸 Rock enthusiast who codes by day and jams by night - guitar and drums are my creative outlets
-
-💪 Always learning, always evolving, always coding!
+> 👉 Full team organization: [github.com/DenariusData](https://github.com/DenariusData)
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Technologies I'm using and learning
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-
-### 🏢 Sebrae - Back Office Intern
-- 🔧 **Back office operations** management
-- 🤝 **Team & client support**
-- 📊 Applying tech skills in business environments
-- 🎯 Bridging technology and business needs
-
-</td>
-    <td valign="top" width="50%">
-
-### 🚚 Logistics Background
-- ⏱️ **9 years** of hands-on experience
-- 📦 Supply chain & operations
-- 🎓 Academic foundation from FATEC
-- 🔄 Transition to tech: leveraging analytical skills
-
-</td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Where I come from
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaslivka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaslivka&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0d1117"/>
-</div>
+It might look like an unusual path, but it all makes sense to me:
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaslivka&theme=tokyonight&hide_border=true&background=0d1117&border_radius=10" alt="GitHub Streak" />
-</div>
-
----
-
-## 🎸 Beyond Code
-
-<div align="center">
-
-```ascii
-  ♪♫ When I'm not coding, you'll find me... ♫♪
-  
-  🎸 Playing guitar           🥁 Drumming to rock beats
-  🎵 Listening to rock        👨‍👩‍👧‍👦 Quality time with family
-  💑 With my girlfriend       🌴 Exploring São José dos Campos
-```
-
-</div>
+- 📦 **Transportadora TADEX** — Administrative Assistant *(2016–2017)*
+- ⚙️ **APTIV / SENAI** — Machining Technician *(2018–2019)*
+- 🚚 **Shark Transportes** — Tracking Assistant *(2020–2021)*
+- 📊 **LSLOG** — Logistics Assistant *(2021–2023)*
+- 🏢 **ADS Serviços Ltda** — Administrative Assistant / HR *(2024–2025)*
+- 🤝 **Sebrae - Regional Office SJC** — Administrative Intern *(2025–present)*
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Education
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaslivka)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaslivka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@example.com)
-
-</div>
+- **Associate Degree in Database Management** — FATEC SJC *(2024 – 2026)*
+- **Associate Degree in Logistics** — FATEC SJC *(2023)*
 
 ---
 
-<div align="center">
+## 🌐 Languages
 
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+🇧🇷 Portuguese — Native &nbsp;&nbsp;|&nbsp;&nbsp; 🇺🇸 English — Advanced &nbsp;&nbsp;|&nbsp;&nbsp; 🇪🇸 Spanish — Intermediate
 
 ---
 
-⭐️ From [rafaslivka](https://github.com/rafaslivka) | Made with ❤️ and lots of ☕
+## 📬 Find me here
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rafael--lopes--slivka-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafael-lopes-slivka)
+[![GitHub](https://img.shields.io/badge/GitHub-rafaslivka-181717?style=flat&logo=github&logoColor=white)](https://github.com/rafaslivka)
+[![Email](https://img.shields.io/badge/Email-rafa_wowslivka%40outlook.com-0078D4?style=flat&logo=microsoftoutlook&logoColor=white)](mailto:rafa_wowslivka@outlook.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(12)%2099175--9591-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/5512991759591)
