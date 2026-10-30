@@ -2,7 +2,7 @@
 
 # Hey, I'm Rafael Slivka 👋
 
-I'm from **São José dos Campos, SP – Brazil**, 25 years old, with almost a decade of experience in logistics, operations, and administrative processes, while building my path in technology and data.
+I'm from **São José dos Campos, SP – Brazil**, 26 years old, with almost a decade of experience in logistics, operations, and administrative processes, while building my path in technology and data.
 
 I'm currently studying **Database Management at FATEC SJC** (graduating December/2026) and working as a **Senior Administrative Analyst at Buiatte**, supporting the **Midea Carrier operation** with a focus on Shipping, Dispatch, operational controls, process improvement, data analysis, and automation.
 
