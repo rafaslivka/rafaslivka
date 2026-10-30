@@ -1,10 +1,14 @@
+<br>
+
 # Hey, I'm Rafael Slivka 👋
 
-I'm from **São José dos Campos, SP – Brazil**, 25 years old, and I'm transitioning careers — coming from almost a decade in logistics and operations, now going all in on tech.
+I'm from **São José dos Campos, SP – Brazil**, 25 years old, with almost a decade of experience in logistics, operations, and administrative processes, while building my path in technology and data.
 
-I'm currently studying **Database Management at FATEC SJC** (graduating December/2026) and working as an **Administrative Intern at Sebrae**, handling Back Office operations, contract management, and client support.
+I'm currently studying **Database Management at FATEC SJC** (graduating December/2026) and working as a **Senior Administrative Analyst at Buiatte**, supporting the **Midea Carrier operation** with a focus on Shipping, Dispatch, operational controls, process improvement, data analysis, and automation.
 
-I'm not an expert yet — I'm someone who learns fast, takes things seriously, and brings a different background to tech: **9 years understanding how real-world operations work**. That changes how I think about solutions.
+My background combines hands-on operational experience with technology. After years working with logistics and administrative processes, I've been applying data, automation, and systems development to solve real operational problems and improve efficiency.
+
+I'm someone who learns fast, takes things seriously, and brings a different background to tech: **years of experience understanding how real-world operations work**. That changes how I think about solutions.
 
 ---
 
@@ -46,7 +50,8 @@ It might look like an unusual path, but it all makes sense to me:
 - 🚚 **Shark Transportes** — Tracking Assistant *(2020–2021)*
 - 📊 **LSLOG** — Logistics Assistant *(2021–2023)*
 - 🏢 **ADS Serviços Ltda** — Administrative Assistant / HR *(2024–2025)*
-- 🤝 **Sebrae - Regional Office SJC** — Administrative Intern *(2025–present)*
+- 🤝 **Sebrae - Regional Office SJC** — Administrative Intern *(2025–2026)*
+- 🚛 **Buiatte / Midea Carrier Operation** — Senior Administrative Analyst *(2026–present)*
 
 ---
 
